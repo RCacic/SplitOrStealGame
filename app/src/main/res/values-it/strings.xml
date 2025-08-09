@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dividi o Ruba</string>
+    <string name="start_game">Inizia Gioco</string>
+    <string name="split">Dividi</string>
+    <string name="steal">Ruba</string>
+    <string name="you_win">Hai vinto!</string>
+    <string name="cpu_win">Il computer ha vinto!</string>
+
+    <string name="split_split">Entrambi avete scelto Dividi. 2 punti ciascuno!</string>
+    <string name="split_steal">Il computer ha scelto Ruba. Ottiene 3 punti!</string>
+    <string name="steal_split">Hai scelto Ruba. Ottieni 3 punti!</string>
+    <string name="steal_steal">Entrambi avete scelto Ruba. Nessun punto!</string>
+
+    <string name="score_display">Tu: %1$d | CPU: %2$d</string>
+</resources>
